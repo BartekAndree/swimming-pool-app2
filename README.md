@@ -2,4 +2,4 @@
 
 Aplication wrote 100% in C#
 
-![Test Image 1](consolapp.png)
+https://raw.githubusercontent.com/BartekAndree/swimming-pool-app2/master/consolapp.PNG
